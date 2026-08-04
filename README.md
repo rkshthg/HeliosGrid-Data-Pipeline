@@ -157,6 +157,3 @@ HeliosGrid/
    - Run `03_gold_load.ipynb` to update the Gold Star Schema via Delta `MERGE INTO`.
 3. **Automate Pipeline**: Open **Databricks Workflows**, create job `HeliosGrid_National_Solar_Pipeline`, chain Tasks 1 $\to$ 2 $\to$ 3 $\to$ 4, and attach an hourly schedule on ephemeral Job Clusters!
 
----
-
-- **Domain Focus**: Renewable Energy Lakehouses, Databricks Unity Catalog, PySpark Atmospheric Physics Engine.

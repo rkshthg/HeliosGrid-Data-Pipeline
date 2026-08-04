@@ -159,6 +159,4 @@ HeliosGrid/
 
 ---
 
-### 👨‍💻 Author & Maintainer
-- **Lead Data Architect & Senior Data Engineer**: Rakshith  
 - **Domain Focus**: Renewable Energy Lakehouses, Databricks Unity Catalog, PySpark Atmospheric Physics Engine.
